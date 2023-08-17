@@ -1,0 +1,463 @@
+
+
+Quest Stage Testing
+
+
+Quest Stage Testing
+To
+frostee411@yahoo.com
+Aug 17 at 4:08 AM
+<!--
+  templateType: "email"
+  isAvailableForNewContent: true
+-->
+<html>
+   <head>
+   <meta charset='UTF-8'>
+   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+   <meta http-equiv='X-UA-Compatible' content='ie=edge'>
+      <style>
+      
+
+
+        @import url("https://p.typekit.net/p.css?s=1&k=ion7jrk&ht=tk&f=2005.2006.2007.2008.2009.2010.2011.2012.9938.9939.39002.39004.17398.17399.17400.17401.22618.22619&a=14587479&app=typekit&e=css");
+
+        @font-face {
+        font-family:"museo-sans-300";
+        src:url("https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+        font-display:auto;font-style:normal;font-weight:300;
+        }
+
+        @font-face {
+        font-family:"museo-sans-300-italic";
+        src:url("https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+        font-display:auto;font-style:italic;font-weight:300;
+        }
+
+        @font-face {
+        font-family:"museo-sans-500";
+        src:url("https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?subset_id=2&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?subset_id=2&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?subset_id=2&fvd=n5&v=3") format("opentype");
+        font-display:auto;font-style:normal;font-weight:500;
+        }
+
+        @font-face {
+        font-family:"museo-sans-500-italic";
+        src:url("https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?subset_id=2&fvd=i5&v=3") format("woff2"),url("https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/d?subset_id=2&fvd=i5&v=3") format("woff"),url("https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/a?subset_id=2&fvd=i5&v=3") format("opentype");
+        font-display:auto;font-style:italic;font-weight:500;
+        }
+
+        @font-face {
+        font-family:"museo-sans-700";
+        src:url("https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+        font-display:auto;font-style:normal;font-weight:700;
+        }
+
+        @font-face {
+        font-family:"museo-sans-700-italic";
+        src:url("https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/2841b6/00000000000000000000e806/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/2841b6/00000000000000000000e806/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+        font-display:auto;font-style:italic;font-weight:700;
+        }
+
+        @font-face {
+        font-family:"museo-sans-900";
+        src:url("https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
+        font-display:auto;font-style:normal;font-weight:900;
+        }
+
+        @font-face {
+        font-family:"museo-sans-900-italic";
+        src:url("https://use.typekit.net/af/27c143/00000000000000000000e808/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff2"),url("https://use.typekit.net/af/27c143/00000000000000000000e808/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff"),url("https://use.typekit.net/af/27c143/00000000000000000000e808/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("opentype");
+        font-display:auto;font-style:italic;font-weight:900;
+        }
+
+
+        .tk-museo-sans { font-family: "museo-sans",sans-serif; }
+
+      
+      @media screen and (min-width: 768px) {
+        #Q1618345268582 {
+            width: 600px !important;
+        }
+            
+        #Q1618345268583 {
+            width: 600px !important;
+            vertical-align: bottom !important;
+            text-align: center !important;
+        }
+        
+        #Q1618345268586 {
+            display: block !important;
+            width: 400px !important;
+            text-align: center !important;
+            padding-right : 100px !important;
+            padding-left : 100px !important;
+            font-size:24px;
+            line-height:32px;
+        }       
+        #Q1618345268588 {
+            display: block !important;
+            width: 600px !important;
+            
+        }
+        #Q1618345268589 {
+            width: 300px !important;
+            display: inline-block !important;
+            
+            font-size:14px;
+            line-height:52px;
+        }
+        #main {
+            padding-right : 100px !important;
+            padding-left : 100px !important;
+        }
+        
+        #heart{
+            width: 360px !important;
+            display: inline-block !important;
+        }   
+        
+        .block1-mob {
+            display: none !important;
+        }
+        .hidden {
+            display:none;
+        }
+        
+        #in-block-1 {
+            width: 30px !important;
+            display: inline-block !important;
+        }
+        
+        #in-block-2 {
+            width: 30px !important;
+            display: inline-block !important;
+        }
+        
+    }
+    
+    @media screen and (max-width: 768px) {      
+    .block1 {
+        display: none !important;
+    }
+    .hidden {
+            display:none;
+        }
+        
+        #Q1618345268586 {       
+            display: block !important;          
+            text-align: center !important;          
+            padding-right : 50px !important;
+            padding-left : 50px !important;
+            font-size:16px;
+            line-height:24px;
+        }
+        #Q1618345268588 {
+            display: block !important;          
+            align: center !important;
+            
+        }
+        
+        #Q1618345268589 {
+            width: 200px !important;
+            display: inline-block !important;
+            
+            font-size:12px;
+            line-height:52px;
+        }
+        
+        #main {
+            padding-right:10px !important;
+            padding-left:10px !important;
+            
+        }
+        
+        #text1 {
+            padding-right:40px !important;
+            padding-left:40px !important;
+        }
+        
+        #text2 {
+            padding-right:40px !important;
+            padding-left:40px !important;
+        }
+        
+        #text3 {        
+            padding-right:30px !important;
+            padding-left:40px !important;
+        }
+        
+        #in-block-1 {
+            width: 70px !important;
+            display: inline-block !important;
+        }
+        
+        #in-block-2 {
+            width: 70px !important;
+            display: inline-block !important;
+        }
+        
+}
+      </style>
+    
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+   </head>
+   <body>
+           <style>
+      
+
+
+        @import url("https://p.typekit.net/p.css?s=1&k=ion7jrk&ht=tk&f=2005.2006.2007.2008.2009.2010.2011.2012.9938.9939.39002.39004.17398.17399.17400.17401.22618.22619&a=14587479&app=typekit&e=css");
+
+        @font-face {
+        font-family:"museo-sans-300";
+        src:url("https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+        font-display:auto;font-style:normal;font-weight:300;
+        }
+
+        @font-face {
+        font-family:"museo-sans-300-italic";
+        src:url("https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+        font-display:auto;font-style:italic;font-weight:300;
+        }
+
+        @font-face {
+        font-family:"museo-sans-500";
+        src:url("https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?subset_id=2&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?subset_id=2&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?subset_id=2&fvd=n5&v=3") format("opentype");
+        font-display:auto;font-style:normal;font-weight:500;
+        }
+
+        @font-face {
+        font-family:"museo-sans-500-italic";
+        src:url("https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?subset_id=2&fvd=i5&v=3") format("woff2"),url("https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/d?subset_id=2&fvd=i5&v=3") format("woff"),url("https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/a?subset_id=2&fvd=i5&v=3") format("opentype");
+        font-display:auto;font-style:italic;font-weight:500;
+        }
+
+        @font-face {
+        font-family:"museo-sans-700";
+        src:url("https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+        font-display:auto;font-style:normal;font-weight:700;
+        }
+
+        @font-face {
+        font-family:"museo-sans-700-italic";
+        src:url("https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/2841b6/00000000000000000000e806/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/2841b6/00000000000000000000e806/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+        font-display:auto;font-style:italic;font-weight:700;
+        }
+
+        @font-face {
+        font-family:"museo-sans-900";
+        src:url("https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
+        font-display:auto;font-style:normal;font-weight:900;
+        }
+
+        @font-face {
+        font-family:"museo-sans-900-italic";
+        src:url("https://use.typekit.net/af/27c143/00000000000000000000e808/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff2"),url("https://use.typekit.net/af/27c143/00000000000000000000e808/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff"),url("https://use.typekit.net/af/27c143/00000000000000000000e808/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("opentype");
+        font-display:auto;font-style:italic;font-weight:900;
+        }
+
+
+        .tk-museo-sans { font-family: "museo-sans",sans-serif; }
+
+      
+      @media screen and (min-width: 768px) {
+        #Q1618345268582 {
+            width: 600px !important;
+        }
+            
+        #Q1618345268583 {
+            width: 600px !important;
+            vertical-align: bottom !important;
+            text-align: center !important;
+        }
+        
+        #Q1618345268586 {
+            display: block !important;
+            width: 400px !important;
+            text-align: center !important;
+            padding-right : 100px !important;
+            padding-left : 100px !important;
+            font-size:24px;
+            line-height:32px;
+        }       
+        #Q1618345268588 {
+            display: block !important;
+            width: 600px !important;
+            
+        }
+        #Q1618345268589 {
+            width: 300px !important;
+            display: inline-block !important;
+            
+            font-size:14px;
+            line-height:52px;
+        }
+        #main {
+            padding-right : 100px !important;
+            padding-left : 100px !important;
+        }
+        
+        #heart{
+            width: 360px !important;
+            display: inline-block !important;
+        }   
+        
+        .block1-mob {
+            display: none !important;
+        }
+        .hidden {
+            display:none;
+        }
+        
+        #in-block-1 {
+            width: 30px !important;
+            display: inline-block !important;
+        }
+        
+        #in-block-2 {
+            width: 30px !important;
+            display: inline-block !important;
+        }
+        
+    }
+    
+    @media screen and (max-width: 768px) {      
+    .block1 {
+        display: none !important;
+    }
+    .hidden {
+            display:none;
+        }
+        
+        #Q1618345268586 {       
+            display: block !important;          
+            text-align: center !important;          
+            padding-right : 50px !important;
+            padding-left : 50px !important;
+            font-size:16px;
+            line-height:24px;
+        }
+        #Q1618345268588 {
+            display: block !important;          
+            align: center !important;
+            
+        }
+        
+        #Q1618345268589 {
+            width: 200px !important;
+            display: inline-block !important;
+            
+            font-size:12px;
+            line-height:52px;
+        }
+        
+        #main {
+            padding-right:10px !important;
+            padding-left:10px !important;
+            
+        }
+        
+        #text1 {
+            padding-right:40px !important;
+            padding-left:40px !important;
+        }
+        
+        #text2 {
+            padding-right:40px !important;
+            padding-left:40px !important;
+        }
+        
+        #text3 {        
+            padding-right:30px !important;
+            padding-left:40px !important;
+        }
+        
+        #in-block-1 {
+            width: 70px !important;
+            display: inline-block !important;
+        }
+        
+        #in-block-2 {
+            width: 70px !important;
+            display: inline-block !important;
+        }
+        
+}
+      </style>
+       <div id="preview_text" style="display:none;font-size:1px;color: red;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">We have the answer…</div>
+      <div id='Q1618345268582' style='width:375px;border-top-width:1px;border-left-width:1px;border-right-width:1px;border-bottom-width:1px;border-style:solid;margin-left:auto;margin-right:auto;border-color:#E5F0FD;background-color:#ffffff;'>  
+            <div style='background-color:#F5F5F5;' class='block1'>
+               <div style='display:block;text-align:center;vertical-align:bottom;padding-top:25px;padding-bottom:25px;' id='Q1618345268583'><img src='http://em.fidelitylifeinsurance.com/jc5hw/Fidelity images/Fidelity Logo.png' alt=' logo' style='vertical-align:bottom;' width='225px' height='35px'></div>               
+            </div>
+            <div style='background-color:#F5F5F5;' class='block1-mob'>
+               <div style='display:block;text-align:center;vertical-align:bottom;padding-top:20px;padding-bottom:20px;'><img src='http://em.fidelitylifeinsurance.com/jc5hw/Fidelity images/Fidelity Logo.png' alt=' logo' style='vertical-align:bottom;' ></div>   <div style='display:block;text-align:center;vertical-align:top;padding-bottom:0px;font-size:14px'></div>           
+            </div>
+            
+               <div style='display:block;vertical-align:bottom;text-align:center;font-family:museo-sans-900,Arial,sans-serif;background-color:#702F8A;color:#FFFFFF;padding-top:20px;padding-bottom:20px' id='Q1618345268586'>                 
+                  <span style='color:#FFFFFF;margin-top:5px;' ><strong>Here’s Why You Need a Life<br> Insurance Policy</strong></span>
+               </div> 
+              
+              
+              
+              <div style='background-color:#ffffff;border-style:solid;border-top-width:0px;border-bottom-width:0;border-left-width:0;border-right-width:0;padding-bottom:30px;line-height:17px' id='main'> 
+            <div style='font-size:16px;line-height:17px;margin-top:25px;font-family:museo-sans-500,Arial,sans-serif;color:#4B4F54;' id='text1'><span style='font-family:museo-sans-700,Arial,sans-serif;display:block;'><strong>Hi contact.firstname ,</strong></span><span style='display:block;margin-top:20px'>Whether you’re young or old, sick or healthy, life insurance can be a great benefit to you and your loved ones. Not only does a life insurance policy <strong>protect your family’s financial future</strong>, it can also bring <strong>peace of mind</strong> knowing that the uncertainties of life are covered.</span><span style='display:block;margin-top:20px'>One of our insurance specialists will be contacting you shortly to discuss your options. If you’d rather call now, simply click below and get covered today!</span></div>
+            
+            <div style='margin-top:35px;display:block;' id='Q1618345268588'>               
+               <div style='display:inline-block;' id='in-block-1'></div>
+               <div style='background-color:#702F8A;border-radius:30px;color:#FFFFFF;text-align:center;display:inline-block;font-family:museo-sans-900,Arial,sans-serif;letter-spacing:1.78px' id='Q1618345268589'>
+           <a rel="noopener" target="_blank" href='tel:+18884711281' style='color:#ffffff;text-decoration:none;font-weight:bold;'>CALL 1-888-471-1281</a>
+        </div>        
+                <div style='display:inline-block;' id='in-block-2'></div>              
+            </div>
+            
+            <div style='vertical-align:top;line-height:17px;margin-top:25px;padding-top:15px;' id='text3'>
+               <div style='display:inline-block;width:8%;height:52px;vertical-align:top'><img src='http://em.fidelitylifeinsurance.com/jc5hw/Fidelity images/Logomark.png' alt=' '></div>
+               <div style='height:52px;display:inline-block;line-height:17px;width:80%;margin-left:20px'>
+                  <div style='display:block;font-size:10px;font-weight:bold;font-family:museo-sans-900-italic,Arial,sans-serif;color:#4A9CBA'><strong><i>Customer Success Team @ Fidelity Life</i></strong></div>
+                  <div style='display:block;font-size:10px;margin-top:5px;font-family:museo-sans-500,Arial,sans-serif;color:#003057'><span style='font-style:regular;'>Working with you,</span><span style='font-family:museo-sans-700-italic,Arial,sans-serif;'> <strong><i>for life®</i></strong></span></div>
+               </div>               
+            </div>
+            
+            </div>
+            
+            <div style='background-color:#F3F6F8;border-style:solid;border-top-width:0px;border-bottom-width:0;border-left-width:0;border-right-width:0;padding-bottom:20px;padding-top:20px;line-height:36px;margin-top:35px;' id='main'>
+            <div style='text-align:center' >
+               <div style='display:block;text-align:center;vertical-align:bottom;padding-top:35px;' id='heart'><img src='http://em.fidelitylifeinsurance.com/jc5hw/Fidelity images/heart.png' alt='logo' style='z-index:-1;margin:-100px' ></div>              
+            </div>
+            
+            <div style='font-size:16px;line-height:22px;margin-top:5px;font-family:museo-sans-900,Arial,sans-serif;background-color:#F3F6F8;text-align:center;' id='text2'><span style='display:block;color:#003057'><strong>Why get life insurance through<br> Fidelity Life?</strong></span></div>
+            <div style='font-size:14px;line-height:17px;margin-top:25px;font-family:museo-sans-500,Arial,sans-serif;color:#4B4F54;background-color:#F3F6F8;text-align:left;' id='text2'><span style='display:block;margin-top:30px;'>For over 125 years, we’ve helped everyday Americans achieve greater financial security. Our process is quick and simple, with plans available for every budget.</span></div>           
+            
+         </div>
+         
+         <div style='border-top-width:1px;border-left-width:1px;border-right-width:1px;border-bottom-width:1px;border-style:solid;background-color:#003057;color:#FFFFFF;text-align:center;font-size:9px;padding-top:30px;padding-bottom:30px;line-height:11px;font-family:Roboto;border-color:#E5F0FD;padding-right:32px;padding-left:30px;' id='footer'>
+         
+         <div style='height:42px;display:block;line-height:17px;'>
+          <div style='display:inline-block;'><a href='https://www.linkedin.com/company/fidelity-life-association' title='linkfid' style='text-decoration:none;'><span style='color:#0689D6;display:inline-block;'><img src='http://em.fidelitylifeinsurance.com/jc5hw/Fidelity images/Icon awesome-linkedin.png' alt='logo'  ></span></a></div>
+          <div style='display:inline-block;margin-left:20px'> <a href='https://www.facebook.com/fidelitylifeassn' title='fbfid' style='text-decoration:none;'><span style='color:#0689D6;display:inline-block;'><img src='http://em.fidelitylifeinsurance.com/jc5hw/Fidelity images/Icon awesome-facebook.png' alt='logo'  ></span></a></div>
+          <div style='display:inline-block;margin-left:20px'><a href='https://www.instagram.com/fidelitylifeinsurance/' title='insfid' style='text-decoration:none;'><span style='color:#0689D6;display:inline-block;'><img src='http://em.fidelitylifeinsurance.com/jc5hw/Fidelity images/Icon ionic-logo-instagram.png' alt='logo'  ></span></a></div>
+          </div>  
+         
+         <span style='display:block;margin-top:5px'>©contact.copyrightyear Fidelity Life Association. All rights reserved.<br>8700 W Bryn Mawr Ave. Ste. 900S, Chicago, IL 60631</span><span style='display:block;'><a href='unsubscribe_link_all' title='Unsubscribe' style='text-decoration:underline;'><span style='color:#FFFFFF;display:inline-block;text-decoration:underline;margin-top:5px'>Unsubscribe</span></a>. </span></div>
+        <img src="http://em.fidelitylifeinsurance.com/o/?eurs=contact.encrypteddropeventid"/></div>
+        <!--Add hubspot tag below-->
+                <p class='hidden'>
+                   
+                                      site_settings.company_name&nbsp;
+                                      site_settings.company_street_address_1&nbsp;
+                                      site_settings.company_street_address_2&nbsp;
+                                      site_settings.company_city&nbsp;
+                                      site_settings.company_state&nbsp;
+                </p>
+                <!------------------------->
+   </body>
+</html>
+
+Delete
+
+Move to
+
+Forward
+
+Reply
+
